@@ -49,3 +49,12 @@ let size = 's';
 // log "LeBron James" if true
 let jerseyNumber = 23;
 let jerseyColor = "yellow";
+
+
+
+
+
+
+// Write an if statement that checks
+// if the variable "someNum" is less than 0 OR greater than 100
+// log stating whether the value meets criteria or not
